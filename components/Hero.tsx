@@ -1,6 +1,6 @@
 
 import React from 'react';
-import resumePdf from '../assets/resume.pdf';
+import resumePdf from '../assets/jiyresume.pdf';
 
 const Hero: React.FC = () => {
   return (
