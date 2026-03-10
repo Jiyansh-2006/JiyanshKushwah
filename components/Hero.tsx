@@ -17,7 +17,7 @@ const Hero: React.FC = () => {
         <div className="flex flex-wrap gap-4">
           <a
   href={resumePdf}
-  target="resume.pdf"
+  target="_blank"
   rel="noopener noreferrer"
   className="bg-slate-900 text-white px-8 py-3 rounded-md font-semibold hover:bg-slate-800 transition-all shadow-sm"
 >
